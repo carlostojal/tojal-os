@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+
+i386-elf-tools/
